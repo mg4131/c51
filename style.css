@@ -1,0 +1,7 @@
+p {
+    color:blue
+}
+.pngs {
+    display:flex;
+    justify-content: space-evenly;
+}
